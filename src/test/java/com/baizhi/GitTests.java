@@ -25,6 +25,10 @@ class GitTests {
         System.out.println("2222");
 
         System.out.println(",,,,");
+
+        System.out.println("3333");
+
+        System.out.println("....");
     }
 
 }
