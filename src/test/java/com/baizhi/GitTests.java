@@ -15,6 +15,10 @@ class GitTests {
         System.out.println(a+b);
 
         System.out.println("111");
+
+        int bbb = 456789;
+        int shus = 789456;
+        System.out.println("shjihnsh");
     }
 
 }
