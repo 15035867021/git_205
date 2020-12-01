@@ -8,6 +8,7 @@ class Git205ApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("我是一只只");
     }
 
 }
