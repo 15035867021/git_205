@@ -19,6 +19,8 @@ class GitTests {
         int bbb = 456789;
         int shus = 789456;
         System.out.println("shjihnsh");
+
+        System.out.println("2222");
     }
 
 }
