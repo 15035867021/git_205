@@ -21,6 +21,8 @@ class GitTests {
         System.out.println("shjihnsh");
 
         int ttt = 456789;
+
+        System.out.println("2222");
     }
 
 }
