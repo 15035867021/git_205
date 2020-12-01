@@ -13,6 +13,8 @@ class Git205ApplicationTests {
         int a = 10;
         int b = 20;
         System.out.println(a+b);
+
+        int dev = 12;
     }
 
 }
