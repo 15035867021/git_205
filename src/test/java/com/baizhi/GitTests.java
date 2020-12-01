@@ -20,6 +20,8 @@ class GitTests {
         int shus = 789456;
         System.out.println("shjihnsh");
 
+        int ttt = 456789;
+
         System.out.println("2222");
 
         System.out.println("3333");
