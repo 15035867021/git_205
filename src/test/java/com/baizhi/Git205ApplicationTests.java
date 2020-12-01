@@ -17,6 +17,8 @@ class Git205ApplicationTests {
         int ccc = 456;
 
         int dev = 12;
+
+        int opo=989;
     }
 
 }
